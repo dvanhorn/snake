@@ -1,5 +1,5 @@
 #lang racket
-(require "snake.ss")
+(require "snake.rkt")
 (require 2htdp/universe)
 
 (big-bang world0

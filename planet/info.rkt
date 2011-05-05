@@ -4,7 +4,7 @@
 (define required-core-version "4.2.5")
 (define repositories (list "4.x"))
 (define primary-file 
-  '("main.ss"))
+  '("main.rkt"))
 (define blurb
   (list '(div "Snake: the snake game, written in Typed Scheme.")))
 (define release-notes 
